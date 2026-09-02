@@ -2,8 +2,8 @@
 
 Internship assignment submission for Zapper Edge.
 
-**Live page:** _add your GitHub Pages link here once deployed_
-**Design file:** [`index.html`](./index.html)
+
+
 
 ## The brief
 
